@@ -44,6 +44,7 @@ Looking for an internship for professional experience.
 * Full OOP
 
 **Projects:** (on GitHub)
+* [Discord local bot](https://github.com/codelumen/qb) (not finished, need refactoring)
 * [VK SDK double-simplified](https://github.com/codelumen/sodium-vk-api) (hate it)
 * [Dating bot](https://github.com/codelumen/aurorabot) (love it)
 * [Voxel Hub bot](https://github.com/codelumen/voxelbot) (abandoned)
