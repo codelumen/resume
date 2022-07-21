@@ -12,8 +12,8 @@ Looking for an internship for professional experience.
 * Socket.io/Websockets *(3 years)*
 * React.js *(2 years)*
 * SASS/LESS/Postcss *(1 year)*
-* Next.js *(3 months)*
-* Tailwind *(3 months)*
+* Next.js *(6 months)*
+* Tailwind *(6 months)*
 
 **Backend skills:**
 * Fetch/Axios *(3 years*)
